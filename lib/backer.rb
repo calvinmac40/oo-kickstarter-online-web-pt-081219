@@ -14,5 +14,4 @@ class Backer
       back+project 
     end
   end
-  end
 end
